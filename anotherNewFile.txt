@@ -1,1 +1,1 @@
-second merge test
+second merge changed last part of the line
